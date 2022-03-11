@@ -1,0 +1,15 @@
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\bin\Release\net6.0\DentalClinic.Application.deps.json
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\bin\Release\net6.0\DentalClinic.Application.dll
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\bin\Release\net6.0\ref\DentalClinic.Application.dll
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\bin\Release\net6.0\DentalClinic.Application.pdb
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\bin\Release\net6.0\DentalClinic.Domain.dll
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\bin\Release\net6.0\DentalClinic.Domain.pdb
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.csproj.AssemblyReference.cache
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.AssemblyInfoInputs.cache
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.AssemblyInfo.cs
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.csproj.CoreCompileInputs.cache
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.csproj.CopyComplete
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.dll
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\ref\DentalClinic.Application.dll
+D:\University\8th_Semester\FinalProject\DentalClinicBack\DentalClinic.Application\obj\Release\net6.0\DentalClinic.Application.pdb

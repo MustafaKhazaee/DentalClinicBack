@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tCegn819xWgmDMOvppQeURSYDwpsiGtJu/LbRmmEyKw=",
+  "Source": "DentalClinic.Api",
+  "BasePath": "_content/DentalClinic.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
